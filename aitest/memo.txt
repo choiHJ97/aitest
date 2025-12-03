@@ -1,1 +1,5 @@
 메모 수정
+
+
+git fetch origin (일단 가져오기만)
+git pull origin (가져와서 합치기)
